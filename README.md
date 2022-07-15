@@ -1,3 +1,7 @@
 # Magazine
  Magazine
-<img src="https://raw.githubusercontent.com/CodrinGavan/Magazine/master/Magazine.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/Magazine/">Live Preview</a>
+ </li>
+ </ul>
